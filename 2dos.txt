@@ -1,0 +1,4 @@
+1. Creating own Backend using GCC/LLVM
+2. Orchestration using Kubernetes
+3. Python/Julia Data Analytics
+4. 
