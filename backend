@@ -1,0 +1,3 @@
+The features of new target that are required by GCC is defined by MD-RTL
+MD file contains the instructions supported by the CPU Architecture in Lisp style syntax. Usually will be located in gcc/config/<architecture_name>/<architecture_name>.md
+ex: gcc/config/i386/i386.md
